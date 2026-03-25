@@ -1,0 +1,18 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build and Logs
+node_modules/
+dist/
+target/
+*.log
